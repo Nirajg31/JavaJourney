@@ -27,6 +27,7 @@ public class Loopexample
         {
             System.out.println(name);
         }
+    //nested loop
         for(int a=21;a<=30;a++)
         {
             System.out.println("*********************Table of "+a+"***************** ");
