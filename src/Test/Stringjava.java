@@ -51,6 +51,7 @@ public class Stringjava
         String[] afterSplit= splitWord.split(",");
         System.out.println("First Value "+" "+afterSplit[0]);
         System.out.println("Second Value "+" "+afterSplit[1]);
+        System.out.println("test");
 
 
 
